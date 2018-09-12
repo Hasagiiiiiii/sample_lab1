@@ -1,5 +1,5 @@
 # sample_lab1
 sample
 kkkk
-6
++6666666
 
